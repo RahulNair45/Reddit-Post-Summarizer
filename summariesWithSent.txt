@@ -1,0 +1,838 @@
+
+Discussion: It's been 11 Years today since release
+======================================
+- On Xbox 360 no less.
+- GTA 3, Vice City, San Andreas, and 4 all came out within the span of 8 years I remember the early days of online, like the few months after release.
+- We would probably be getting GTA 7 on the way by now, and already had another spin off like Vice City was at the time.
+- Remember when we got 3 amazing GTA's on the same console Oh damn, one of the best video game characters I ever played!
+- It’s also been 11 years since Steven Ogg was happy to be trevor.
+
+Summary Sentiment: positive (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- On Xbox 360 no less.
+  Sentiment: positive (Score: 0.96)
+- GTA 3, Vice City, San Andreas, and 4 all came out within the span of 8 years I remember the early days of online, like the few months after release.
+  Sentiment: positive (Score: 0.98)
+- We would probably be getting GTA 7 on the way by now, and already had another spin off like Vice City was at the time.
+  Sentiment: negative (Score: 1.00)
+- Remember when we got 3 amazing GTA's on the same console Oh damn, one of the best video game characters I ever played!
+  Sentiment: positive (Score: 1.00)
+- It’s also been 11 years since Steven Ogg was happy to be trevor.
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 3
+Negative Comments: 7
+Neutral Comments: 0
+
+
+Discussion: CONCORD will be taken offline Sept 6. Sales will cease and refunds will be issued🚀
+==================================================================================
+- I never seen something like this.
+- 8 years for what... like 12 days?
+- WOW!
+- In times like this I always wonder...
+- Holy shit, they un-released a game This will be in the history books my god Wow, that's nuclear level bad.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- I never seen something like this.
+  Sentiment: positive (Score: 1.00)
+- 8 years for what... like 12 days?
+  Sentiment: negative (Score: 0.99)
+- WOW!
+  Sentiment: positive (Score: 1.00)
+- In times like this I always wonder...
+  Sentiment: positive (Score: 1.00)
+- Holy shit, they un-released a game This will be in the history books my god Wow, that's nuclear level bad.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: 5 years after the original post, showing my Grandma playing Wii Fit every morning for 10 years, Im excited to update you that she is still going!! She wakes up every morning and does exercises to stay fit!! Almost at 16 years!!
+===================================================================================================================================================================================================================================
+- I just felt 10 times fatter because of this post for not doing anything.
+- Because all I can do is give her an e-hug.
+- The craziest thing is that that Wii is so tough it is still holding up after 16 years of daily usage.
+- Wow, kudos to your fit grandma, it's so nice and inspiring seeing this.
+- Making the assumption she has traveled in the last 15 years.
+
+Summary Sentiment: positive (Score: 0.98)
+
+Detailed Sentence Sentiments:
+- I just felt 10 times fatter because of this post for not doing anything.
+  Sentiment: negative (Score: 1.00)
+- Because all I can do is give her an e-hug.
+  Sentiment: positive (Score: 1.00)
+- The craziest thing is that that Wii is so tough it is still holding up after 16 years of daily usage.
+  Sentiment: negative (Score: 1.00)
+- Wow, kudos to your fit grandma, it's so nice and inspiring seeing this.
+  Sentiment: positive (Score: 1.00)
+- Making the assumption she has traveled in the last 15 years.
+  Sentiment: negative (Score: 0.98)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: Valve hands out gift wrapped bans in DotA2
+==========================================
+- I love this Now this is how you do a ban That’s fucking awesome lmao Smurfing!?
+- For the curious - what it looked like in real time when it happened to a streamer:
+
+
+https://youtu.be/S3_MwB-_AOo?feature=shared Next: handing out smurf bans on players birthday This is gold, league should do the same Old person here - what’s smurfing?
+- I would love to see more developers get this sassy when banning hackers, smurfs, etc.
+- You sick son of a...
+- Accept
+
+Summary Sentiment: positive (Score: 0.98)
+
+Detailed Sentence Sentiments:
+- I love this Now this is how you do a ban That’s fucking awesome lmao Smurfing!?
+  Sentiment: positive (Score: 1.00)
+- For the curious - what it looked like in real time when it happened to a streamer:
+
+
+https://youtu.be/S3_MwB-_AOo?feature=shared Next: handing out smurf bans on players birthday This is gold, league should do the same Old person here - what’s smurfing?
+  Sentiment: negative (Score: 0.98)
+- I would love to see more developers get this sassy when banning hackers, smurfs, etc.
+  Sentiment: negative (Score: 0.81)
+- You sick son of a...
+  Sentiment: negative (Score: 1.00)
+- Accept
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 5
+Positive Comments: 2
+Negative Comments: 3
+Neutral Comments: 0
+
+
+Discussion: GTA 6 TRAILER DROPPED NOW
+=========================
+- It actually has an artstyle and isn't just trying to look as real as possible.
+- Anyways, I noticed that it sometimes looks photorealistic, especially the parts that are phone videos with a pretty convincing "low quality" feel, but you can still tell it's a game, it's a GTA, and I really like that.
+- so much thickness in the trailer Ngl the alligator going inside the store was funny as shit yeah that looks like gta6 to me This will probably be the last GTA in most middle aged people's lifetime!
+- as a South Floridian born and raised, gonna be pretty surreal lmao I still have 2 years to a) buy a decent console or b) build a gaming pc It feels crazy watching a real trailer for GTA VI.
+- Please everyone take care of your health we need to be there in '25.
+
+Summary Sentiment: positive (Score: 0.89)
+
+Detailed Sentence Sentiments:
+- It actually has an artstyle and isn't just trying to look as real as possible.
+  Sentiment: negative (Score: 0.76)
+- Anyways, I noticed that it sometimes looks photorealistic, especially the parts that are phone videos with a pretty convincing \"low quality\" feel, but you can still tell it's a game, it's a GTA, and I really like that.
+  Sentiment: positive (Score: 1.00)
+- so much thickness in the trailer Ngl the alligator going inside the store was funny as shit yeah that looks like gta6 to me This will probably be the last GTA in most middle aged people's lifetime!
+  Sentiment: negative (Score: 1.00)
+- as a South Floridian born and raised, gonna be pretty surreal lmao I still have 2 years to a) buy a decent console or b) build a gaming pc It feels crazy watching a real trailer for GTA VI.
+  Sentiment: negative (Score: 0.99)
+- Please everyone take care of your health we need to be there in '25.
+  Sentiment: positive (Score: 0.97)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: Sony PlayStation’s CEO Jim Ryan was at PlayStation London Studios 6 days ago. Yesterday, he announced the studio is being closed.
+=================================================================================================================================
+- About 500 layoffs Look how happy they all are!
+- Wasn't this a retirement party also?
+- One of the higher ups came for a visit.
+- top guy comes in, has a great time... said they wanted to get to know the department better.
+- a month later 40% of us are cut I worked at BlackBerry years ago.
+
+Summary Sentiment: negative (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- About 500 layoffs Look how happy they all are!
+  Sentiment: positive (Score: 1.00)
+- Wasn't this a retirement party also?
+  Sentiment: negative (Score: 1.00)
+- One of the higher ups came for a visit.
+  Sentiment: positive (Score: 0.99)
+- top guy comes in, has a great time... said they wanted to get to know the department better.
+  Sentiment: positive (Score: 1.00)
+- a month later 40% of us are cut I worked at BlackBerry years ago.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 2
+Negative Comments: 8
+Neutral Comments: 0
+
+
+Discussion: Xbox revealed an official Deadpool controller with butt cheeks on the back
+==========================================================================
+- It better be squishy
+- I gotta shove batteries up Deadpool’s ass every time to change them omg I never thought I'd describe an XBox controller as phat, but here we are.
+- I would never have guessed that I will live to see a thick ass controller, but here I am Do you think the backside is... squishy?
+- Imagine changing the batteries 😂 It's a one-off sweepstakes prize Considering Microsoft now owns Activision, this would be an excellent time to renew the Deadpool license in order to relist the game.
+- No bulge on the front?
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- It better be squishy
+  Sentiment: negative (Score: 1.00)
+- I gotta shove batteries up Deadpool’s ass every time to change them omg I never thought I'd describe an XBox controller as phat, but here we are.
+  Sentiment: negative (Score: 0.99)
+- I would never have guessed that I will live to see a thick ass controller, but here I am Do you think the backside is... squishy?
+  Sentiment: negative (Score: 1.00)
+- Imagine changing the batteries 😂 It's a one-off sweepstakes prize Considering Microsoft now owns Activision, this would be an excellent time to renew the Deadpool license in order to relist the game.
+  Sentiment: negative (Score: 1.00)
+- No bulge on the front?
+  Sentiment: negative (Score: 0.96)
+
+Metrics:
+Total Comments: 6
+Positive Comments: 2
+Negative Comments: 4
+Neutral Comments: 0
+
+
+Discussion: PlayStation cancels plans to force Helldivers 2 players to link a PSN account
+=============================================================================
+- Now if everyone could do this with all goods across the board, and stop consuming so much for a while, the companies would stop price gouging us and blaming "inflation".
+- I'm impressed This was too much backlash even for Sony.
+- Sony has been chasing the golden goose of live service games for years, that's why they bought Bungie who had a successful game in Destiny 2.
+- Wow they actually backtracked.
+- Helldivers 2 is what Sony chased for years and they were going to destroy it out of sturbbonness unless they folded.
+
+Summary Sentiment: negative (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- Now if everyone could do this with all goods across the board, and stop consuming so much for a while, the companies would stop price gouging us and blaming \"inflation\".
+  Sentiment: negative (Score: 1.00)
+- I'm impressed This was too much backlash even for Sony.
+  Sentiment: positive (Score: 0.88)
+- Sony has been chasing the golden goose of live service games for years, that's why they bought Bungie who had a successful game in Destiny 2.
+  Sentiment: positive (Score: 0.99)
+- Wow they actually backtracked.
+  Sentiment: positive (Score: 0.99)
+- Helldivers 2 is what Sony chased for years and they were going to destroy it out of sturbbonness unless they folded.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 5
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: Opinion: The change of tone in Call of Duty was a disgrace
+==========================================================
+- Edit: stop saying cod didn’t start at modern warfare.
+- I’m a 30 year old man I KNOW, it fucking shipped with a 4 on the box.
+- At the end of the day it’s always a numbers game and the numbers don’t lie Imo call of duty has never been particularly respectful to veterans.
+- I don’t think that’s a bad thing, it’s a video game but you really gunna tell me zombies mode and unlocking the flamethrower at level 55 is respectful to vets!?
+- Today I learned people think COD respects veterans, lol Weird they only always show Nicki and never Homelander.
+
+Summary Sentiment: negative (Score: 0.93)
+
+Detailed Sentence Sentiments:
+- Edit: stop saying cod didn’t start at modern warfare.
+  Sentiment: negative (Score: 1.00)
+- I’m a 30 year old man I KNOW, it fucking shipped with a 4 on the box.
+  Sentiment: negative (Score: 0.91)
+- At the end of the day it’s always a numbers game and the numbers don’t lie Imo call of duty has never been particularly respectful to veterans.
+  Sentiment: positive (Score: 0.94)
+- I don’t think that’s a bad thing, it’s a video game but you really gunna tell me zombies mode and unlocking the flamethrower at level 55 is respectful to vets!?
+  Sentiment: negative (Score: 0.58)
+- Today I learned people think COD respects veterans, lol Weird they only always show Nicki and never Homelander.
+  Sentiment: negative (Score: 0.97)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 3
+Negative Comments: 7
+Neutral Comments: 0
+
+
+Discussion: Y'all have no idea the level of nostalgia which just hit me rn
+==============================================================
+- Final Fantasy 6: April 2, 1994
+
+Chrono Trigger: March 11, 1995
+
+
+The games of my youth are thirty years old.
+- True royalty.
+- I prefer these guides over the addridden garbage you find now.
+- The ASCII artists are unsung heroes The Game FAQs authors are true heroes of the internet.
+- I feel like a whole new world has been unlocked for me thanks to these.
+
+Summary Sentiment: positive (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- Final Fantasy 6: April 2, 1994
+
+Chrono Trigger: March 11, 1995
+
+
+The games of my youth are thirty years old.
+  Sentiment: negative (Score: 0.96)
+- True royalty.
+  Sentiment: positive (Score: 1.00)
+- I prefer these guides over the addridden garbage you find now.
+  Sentiment: positive (Score: 0.96)
+- The ASCII artists are unsung heroes The Game FAQs authors are true heroes of the internet.
+  Sentiment: positive (Score: 1.00)
+- I feel like a whole new world has been unlocked for me thanks to these.
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 6
+Negative Comments: 4
+Neutral Comments: 0
+
+
+Discussion: Revive me please bro, I have the Raygun!
+========================================
+- It was great times.
+- 🙏🏻 Remember playing Black ops.
+- I don't remember which Black ops or what level it was.
+- I just gotten the raygun and then I got swarmed by zombies shortly after, cuz you know your friends like to separate.
+- He dove off a ledge and a few seconds later I was revived apparently he had the ballistic knives that had the revive if you shoot your friend with a knife, it revives them.
+
+Summary Sentiment: positive (Score: 0.98)
+
+Detailed Sentence Sentiments:
+- It was great times.
+  Sentiment: positive (Score: 1.00)
+- 🙏🏻 Remember playing Black ops.
+  Sentiment: positive (Score: 0.54)
+- I don't remember which Black ops or what level it was.
+  Sentiment: negative (Score: 1.00)
+- I just gotten the raygun and then I got swarmed by zombies shortly after, cuz you know your friends like to separate.
+  Sentiment: negative (Score: 0.99)
+- He dove off a ledge and a few seconds later I was revived apparently he had the ballistic knives that had the revive if you shoot your friend with a knife, it revives them.
+  Sentiment: positive (Score: 0.93)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 5
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: I modded RDR2 so all wagons/horses go supersonic speed. It's now a horror game.
+===============================================================================
+- "Stop the wagon!"
+- Not even dust.
+- That's really stupid.
+- Reminds me of GTA Carmageddon mod "Stop the wagon" they said hopelessly as even the wagons driver was helpless to stop the super sonic stagecoach.
+- How is there not a Thomas the Tank Engine mod for this game yet.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- \"Stop the wagon!\"
+  Sentiment: negative (Score: 1.00)
+- Not even dust.
+  Sentiment: negative (Score: 0.99)
+- That's really stupid.
+  Sentiment: negative (Score: 1.00)
+- Reminds me of GTA Carmageddon mod \"Stop the wagon\" they said hopelessly as even the wagons driver was helpless to stop the super sonic stagecoach.
+  Sentiment: negative (Score: 1.00)
+- How is there not a Thomas the Tank Engine mod for this game yet.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 3
+Negative Comments: 7
+Neutral Comments: 0
+
+
+Discussion: Henry Cavill says heading up the Warhammer 40,000 cinematic universe is 'the greatest privilege of my professional career'
+==========================================================================================================================
+- I wish they didn’t boot him from the Witcher.
+- I have no idea when it will be placed, but of all the show runners that could have nabbed it I’m grateful it’s in Henry’s hands.
+- He’s a fanboy at heart with the talent and knowledge to back it up.
+- He was the literal perfect Witcher and uptight writers ego got him booted
+
+Edit: I’m aware he didn’t get kicked and left after his contract ended.
+- Good reason to be hopeful about Cavill's involvement in the Warhammer 40k adaptation imo.
+
+Summary Sentiment: positive (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- I wish they didn’t boot him from the Witcher.
+  Sentiment: negative (Score: 1.00)
+- I have no idea when it will be placed, but of all the show runners that could have nabbed it I’m grateful it’s in Henry’s hands.
+  Sentiment: positive (Score: 1.00)
+- He’s a fanboy at heart with the talent and knowledge to back it up.
+  Sentiment: positive (Score: 1.00)
+- He was the literal perfect Witcher and uptight writers ego got him booted
+
+Edit: I’m aware he didn’t get kicked and left after his contract ended.
+  Sentiment: negative (Score: 0.99)
+- Good reason to be hopeful about Cavill's involvement in the Warhammer 40k adaptation imo.
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 5
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: when the game respects you and your time.
+=========================================
+- FFXIV is pretty good about this, letting you know the next cutscenes is loooong What game is this?
+- Ah yes, "multiple cutscenes will play in sequence."
+- “This will take a while, make sure you are prepared”
+
+*proceeds to max level, get the highest upgraded gear possible, and get the maximum amount of support items*
+
+“Are you sure you want to continue, this will take a while”
+
+*proceeds to onesidedly destroy the final boss in 2 minutes* I really wish Death Stranding did this before playing the entire LOTR trilogy at the end "Several cutscenes will play in sequence…" RGG games have gotten better and better about letting you know when you're really in for it.
+- Eternal Sonata hit me with that "This ending is over 45 minutes long" immediately after finishing the final boss.
+- I know FF14 does this as well, warning you about a long series of cut scenes and or dialogues.
+
+Summary Sentiment: negative (Score: 0.96)
+
+Detailed Sentence Sentiments:
+- FFXIV is pretty good about this, letting you know the next cutscenes is loooong What game is this?
+  Sentiment: positive (Score: 1.00)
+- Ah yes, \"multiple cutscenes will play in sequence.\"
+  Sentiment: positive (Score: 1.00)
+- “This will take a while, make sure you are prepared”
+
+*proceeds to max level, get the highest upgraded gear possible, and get the maximum amount of support items*
+
+“Are you sure you want to continue, this will take a while”
+
+*proceeds to onesidedly destroy the final boss in 2 minutes* I really wish Death Stranding did this before playing the entire LOTR trilogy at the end \"Several cutscenes will play in sequence…\" RGG games have gotten better and better about letting you know when you're really in for it.
+  Sentiment: negative (Score: 1.00)
+- Eternal Sonata hit me with that \"This ending is over 45 minutes long\" immediately after finishing the final boss.
+  Sentiment: negative (Score: 1.00)
+- I know FF14 does this as well, warning you about a long series of cut scenes and or dialogues.
+  Sentiment: negative (Score: 0.97)
+
+Metrics:
+Total Comments: 7
+Positive Comments: 2
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: In 2015, these two people became close friends on gta online, then met up in real life and took a picture in their favorite in-game location.
+=============================================================================================================================================
+- They had theirs too the next day.
+- Partner mentioned his high school orientation the next day.
+- My partner was playing COD way back in day, and was chatting with these random two kids (brothers) his age in the lobby.
+- Turned out to be the same school.
+- They were going to generic catholic school name.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- They had theirs too the next day.
+  Sentiment: negative (Score: 0.84)
+- Partner mentioned his high school orientation the next day.
+  Sentiment: negative (Score: 0.74)
+- My partner was playing COD way back in day, and was chatting with these random two kids (brothers) his age in the lobby.
+  Sentiment: negative (Score: 0.97)
+- Turned out to be the same school.
+  Sentiment: negative (Score: 1.00)
+- They were going to generic catholic school name.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 7
+Negative Comments: 3
+Neutral Comments: 0
+
+
+Discussion: I made the ebony axe from Skyrim
+================================
+- Did you craft about 10000 iron daggers first to be able to craft this?
+- Awesome stuff, never played Skyrim but I recommend you put this in the black smithing Reddit’s cause it’s beautiful.
+- I'd like to answer my door with that axe in hand and a hearty "NEVER SHOULD HAVE COME HERE".
+- Skyrim's version of ebony weapons was so elegant... NICE brother!
+- Must've used a lot of copies of Skyrim That's quite the fancy graphics mod you have there!
+
+Summary Sentiment: positive (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- Did you craft about 10000 iron daggers first to be able to craft this?
+  Sentiment: negative (Score: 0.99)
+- Awesome stuff, never played Skyrim but I recommend you put this in the black smithing Reddit’s cause it’s beautiful.
+  Sentiment: positive (Score: 1.00)
+- I'd like to answer my door with that axe in hand and a hearty \"NEVER SHOULD HAVE COME HERE\".
+  Sentiment: positive (Score: 1.00)
+- Skyrim's version of ebony weapons was so elegant... NICE brother!
+  Sentiment: positive (Score: 1.00)
+- Must've used a lot of copies of Skyrim That's quite the fancy graphics mod you have there!
+  Sentiment: positive (Score: 0.79)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: This new walking dead game should be illegal
+============================================
+- They look like cheap look a likes.
+- The Worst of Us™ It's like they went "Sure, we know what people look like."
+- It’s GameMill.
+- They look like some one described the characters to them down the phone Daryl looks like he got a double chin, and Rick's forehead is something else.
+- Love the way there’s a company called Gamemill that makes no attempt to hide what it’s purpose is We've entered a new era of gaming, Gollum-like games, what a time to be alive.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- They look like cheap look a likes.
+  Sentiment: negative (Score: 1.00)
+- The Worst of Us™ It's like they went \"Sure, we know what people look like.\"
+  Sentiment: negative (Score: 1.00)
+- It’s GameMill.
+  Sentiment: negative (Score: 0.67)
+- They look like some one described the characters to them down the phone Daryl looks like he got a double chin, and Rick's forehead is something else.
+  Sentiment: negative (Score: 1.00)
+- Love the way there’s a company called Gamemill that makes no attempt to hide what it’s purpose is We've entered a new era of gaming, Gollum-like games, what a time to be alive.
+  Sentiment: positive (Score: 0.99)
+
+Metrics:
+Total Comments: 8
+Positive Comments: 3
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: Capture the flag days :(
+========================
+- Lol, we have a group of around 20 players that still play a clone of a game that was released in 1997.
+- I thought those lit up map spots actually represented players online, but seeing a lit up map and only 156 online I guess not Watching Halo 3's lights go totally dark was harrowing You will only find players in tdm.
+- They pulled the plug on the halo 2 server far too early back in the day.
+- Long live the early online multiplayer games!!!!
+- I remember playing it when it first released and the top levels always contained thousands of players each!
+
+Summary Sentiment: negative (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- Lol, we have a group of around 20 players that still play a clone of a game that was released in 1997.
+  Sentiment: positive (Score: 0.96)
+- I thought those lit up map spots actually represented players online, but seeing a lit up map and only 156 online I guess not Watching Halo 3's lights go totally dark was harrowing You will only find players in tdm.
+  Sentiment: negative (Score: 0.99)
+- They pulled the plug on the halo 2 server far too early back in the day.
+  Sentiment: negative (Score: 1.00)
+- Long live the early online multiplayer games!!!!
+  Sentiment: positive (Score: 1.00)
+- I remember playing it when it first released and the top levels always contained thousands of players each!
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 3
+Negative Comments: 7
+Neutral Comments: 0
+
+
+Discussion: Found at my parents house, my Pokemon Red cartridge with legit Mew with 14 y/o batteries still working in my Game Boy Pocket
+============================================================================================================================
+- Then swap the main battery and remove the backup.
+- Lol 14yo batteries working and the batteries aren't acid death?
+- Are you suggesting my Nugget Bridge Mew isn't legitimate?
+- Your other option is to solder in a second backup battery to some other pads on the cart.
+- Op, there are hardware backup solutions you can use like the gbxcart rw that you can use to backup and restore your save.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- Then swap the main battery and remove the backup.
+  Sentiment: negative (Score: 1.00)
+- Lol 14yo batteries working and the batteries aren't acid death?
+  Sentiment: negative (Score: 0.98)
+- Are you suggesting my Nugget Bridge Mew isn't legitimate?
+  Sentiment: negative (Score: 1.00)
+- Your other option is to solder in a second backup battery to some other pads on the cart.
+  Sentiment: negative (Score: 1.00)
+- Op, there are hardware backup solutions you can use like the gbxcart rw that you can use to backup and restore your save.
+  Sentiment: negative (Score: 0.99)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 0
+Negative Comments: 10
+Neutral Comments: 0
+
+
+Discussion: The Simpsons: Tapped Out is being sunsetted after 12 years
+==========================================================
+- Would be crazy if it got a steam port with offline mode I would honestly pay for it My mom has been playing this game ever since it came out and she was so sad to learn this I can't believe it myself.
+- Played this obsessively when it came out.bouht a boatload of doughnuts got my town just like I wanted and stopped because it became impossible to get everything free to play .was a great little time sink rip my dear Springfield  Loved this game.
+- Before Donuts became necessary to progress things, then I gave it up.
+- she literally had everything and was leveled up as high as you could go.
+- Donuts for all 🍩🍻 Damnit my corn was just about to grow.
+
+Summary Sentiment: negative (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- Would be crazy if it got a steam port with offline mode I would honestly pay for it My mom has been playing this game ever since it came out and she was so sad to learn this I can't believe it myself.
+  Sentiment: negative (Score: 1.00)
+- Played this obsessively when it came out.bouht a boatload of doughnuts got my town just like I wanted and stopped because it became impossible to get everything free to play .was a great little time sink rip my dear Springfield  Loved this game.
+  Sentiment: positive (Score: 0.79)
+- Before Donuts became necessary to progress things, then I gave it up.
+  Sentiment: negative (Score: 0.98)
+- she literally had everything and was leveled up as high as you could go.
+  Sentiment: positive (Score: 1.00)
+- Donuts for all 🍩🍻 Damnit my corn was just about to grow.
+  Sentiment: negative (Score: 0.97)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: Battlefield 1 almost 8 years old and still looks better than most games released today
+======================================================================================
+- They really went whole hog into that one.
+- (I don’t play too much pvp anymore) 8 Years???
+- I still play it sometimes, even tho im dog shit at it The environmental details are unmatched.
+- This game is still a technical marvel.
+- I started playing it again from time to time a couple months ago and when I first got into a game I was super impressed that it looks so great even on Xbox one s
+
+Also operations were really fun The campaign in B1 is pretty good too!
+
+Summary Sentiment: positive (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- They really went whole hog into that one.
+  Sentiment: negative (Score: 0.98)
+- (I don’t play too much pvp anymore) 8 Years???
+  Sentiment: negative (Score: 1.00)
+- I still play it sometimes, even tho im dog shit at it The environmental details are unmatched.
+  Sentiment: negative (Score: 0.99)
+- This game is still a technical marvel.
+  Sentiment: positive (Score: 1.00)
+- I started playing it again from time to time a couple months ago and when I first got into a game I was super impressed that it looks so great even on Xbox one s
+
+Also operations were really fun The campaign in B1 is pretty good too!
+  Sentiment: positive (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 6
+Negative Comments: 4
+Neutral Comments: 0
+
+
+Discussion: Thanks to r/gaming, after 4 years of work, I finally found a publisher for my nostalgic helicopter game! (Cleared Hot)
+======================================================================================================================
+- This is so crazy to me because I played Microprose games growing up.
+- Holy fuck this game from my childhood I can tell you must have been a fan of the Stike series (Desert strike and such).
+- I posted here with a prototype 3 years ago, and that got the attention of the Microprose CEO, who reached out to me on twitter/X.
+- My mom bought me Falcon 4.0 when I was 11 or 12 and I read that if you learned the game you could fly a real F-16.
+- We stayed in touch and then [you guys blew up our new trailer](https://www.reddit.com/r/gaming/comments/1dabzqo/i_got_tired_of_waiting_for_a_desert_strike_remake/) and that got it moving forward.
+
+Summary Sentiment: negative (Score: 0.96)
+
+Detailed Sentence Sentiments:
+- This is so crazy to me because I played Microprose games growing up.
+  Sentiment: positive (Score: 0.99)
+- Holy fuck this game from my childhood I can tell you must have been a fan of the Stike series (Desert strike and such).
+  Sentiment: negative (Score: 1.00)
+- I posted here with a prototype 3 years ago, and that got the attention of the Microprose CEO, who reached out to me on twitter/X.
+  Sentiment: positive (Score: 0.98)
+- My mom bought me Falcon 4.0 when I was 11 or 12 and I read that if you learned the game you could fly a real F-16.
+  Sentiment: negative (Score: 0.90)
+- We stayed in touch and then [you guys blew up our new trailer](https://www.reddit.com/r/gaming/comments/1dabzqo/i_got_tired_of_waiting_for_a_desert_strike_remake/) and that got it moving forward.
+  Sentiment: positive (Score: 0.94)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 5
+Negative Comments: 5
+Neutral Comments: 0
+
+
+Discussion: How to start world war 3
+========================
+- Team Fortress 3.
+- Half Life Alyx 2
+
+Valve counting to 3 at this point might actually be a more celebrated event than HL3.
+- II, which costs $70 in total.
+- Half Life 3
+
+
+The Half Life trading card game “YES, I finally got the 5 star ‘Beach Party Alyx’ hero!” “Do you guys not have phones?” Half life 3 MOBILE  
+That would radicalize me xD The weapons sold as gatcha
+
+at least 100x pull for Crossbow MK.
+- mom can i have 60 dollars for the new bikini gordon skin pls mommy 🥺 I see it's that time of the decade again.
+
+Summary Sentiment: negative (Score: 0.99)
+
+Detailed Sentence Sentiments:
+- Team Fortress 3.
+  Sentiment: positive (Score: 0.99)
+- Half Life Alyx 2
+
+Valve counting to 3 at this point might actually be a more celebrated event than HL3.
+  Sentiment: negative (Score: 0.94)
+- II, which costs $70 in total.
+  Sentiment: negative (Score: 0.99)
+- Half Life 3
+
+
+The Half Life trading card game “YES, I finally got the 5 star ‘Beach Party Alyx’ hero!” “Do you guys not have phones?” Half life 3 MOBILE  
+That would radicalize me xD The weapons sold as gatcha
+
+at least 100x pull for Crossbow MK.
+  Sentiment: negative (Score: 0.98)
+- mom can i have 60 dollars for the new bikini gordon skin pls mommy 🥺 I see it's that time of the decade again.
+  Sentiment: negative (Score: 0.82)
+
+Metrics:
+Total Comments: 7
+Positive Comments: 1
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: Silent Hill 2 on PS2 (emulated at 8K) vs the remake
+===================================================
+- How well they did with the graphics of the remake.
+- Don't forget that on original PS2 the game was played in 640x480.
+- Unsettling.
+- The original definitely had a look.
+- By cleaning up the graphics, it loses a tiny bit of creepiness  I’ve been enjoying playing the remake with the 90s graphics filter enabled, it really helps it feel closer to the original.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- How well they did with the graphics of the remake.
+  Sentiment: positive (Score: 1.00)
+- Don't forget that on original PS2 the game was played in 640x480.
+  Sentiment: negative (Score: 0.67)
+- Unsettling.
+  Sentiment: negative (Score: 1.00)
+- The original definitely had a look.
+  Sentiment: positive (Score: 1.00)
+- By cleaning up the graphics, it loses a tiny bit of creepiness  I’ve been enjoying playing the remake with the 90s graphics filter enabled, it really helps it feel closer to the original.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 4
+Negative Comments: 6
+Neutral Comments: 0
+
+
+Discussion: Nintendo: stop copying us!
+==========================
+- It's a patent lawsuit.
+- They sued for patent not for copyright
+
+Edit: Guys...
+- But it's not about copying monsters.
+- It's like telling writers to not be influenced by Shakespeare.
+- But it added that it was "unaware" of the specific patents that it had been accused of infringing.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- It's a patent lawsuit.
+  Sentiment: negative (Score: 1.00)
+- They sued for patent not for copyright
+
+Edit: Guys...
+  Sentiment: negative (Score: 1.00)
+- But it's not about copying monsters.
+  Sentiment: negative (Score: 0.96)
+- It's like telling writers to not be influenced by Shakespeare.
+  Sentiment: positive (Score: 0.66)
+- But it added that it was \"unaware\" of the specific patents that it had been accused of infringing.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 0
+Negative Comments: 10
+Neutral Comments: 0
+
+
+Discussion: Helldivers 2 Has Been Delisted From Over 100 Countries on Steam
+===============================================================
+- One of Sony's slogans is "Play Has No Limits", you know, unless you live one of those 100s of countries.
+- was it all a dream?
+- It's so dumb, it's impressive This whole helldivers controversy has been crazy.
+- I thought Sony was smart(or at least pretending to be smart) when they announced more games coming out to PC day one.
+- Ahh Sony, snatching defeat from the jaws of victory.
+
+Summary Sentiment: negative (Score: 0.79)
+
+Detailed Sentence Sentiments:
+- One of Sony's slogans is \"Play Has No Limits\", you know, unless you live one of those 100s of countries.
+  Sentiment: negative (Score: 0.99)
+- was it all a dream?
+  Sentiment: negative (Score: 0.94)
+- It's so dumb, it's impressive This whole helldivers controversy has been crazy.
+  Sentiment: positive (Score: 1.00)
+- I thought Sony was smart(or at least pretending to be smart) when they announced more games coming out to PC day one.
+  Sentiment: negative (Score: 0.99)
+- Ahh Sony, snatching defeat from the jaws of victory.
+  Sentiment: negative (Score: 0.99)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 1
+Negative Comments: 9
+Neutral Comments: 0
+
+
+Discussion: Starfield has lost 97% of its Steam players in less than six months
+===================================================================
+- They spent 7 years making the game.
+- Which game has more players now, Starfield or Skyrim?
+- Makes me worried for Elder Scrolls 6 if this was their “passion project” They overcharged for an extremely underwhelming game.
+- More like a meh.
+- Pointless spaceships where u can just fast travel everywhere, which made getting in your ship even more pointless, ridiculous amount of loading screens even when played on a SSD.
+
+Summary Sentiment: negative (Score: 1.00)
+
+Detailed Sentence Sentiments:
+- They spent 7 years making the game.
+  Sentiment: positive (Score: 0.96)
+- Which game has more players now, Starfield or Skyrim?
+  Sentiment: negative (Score: 0.99)
+- Makes me worried for Elder Scrolls 6 if this was their “passion project” They overcharged for an extremely underwhelming game.
+  Sentiment: negative (Score: 1.00)
+- More like a meh.
+  Sentiment: negative (Score: 0.97)
+- Pointless spaceships where u can just fast travel everywhere, which made getting in your ship even more pointless, ridiculous amount of loading screens even when played on a SSD.
+  Sentiment: negative (Score: 1.00)
+
+Metrics:
+Total Comments: 10
+Positive Comments: 2
+Negative Comments: 8
+Neutral Comments: 0
